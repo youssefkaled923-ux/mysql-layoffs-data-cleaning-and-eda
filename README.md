@@ -42,5 +42,3 @@ This project demonstrates a complete data analysis workflow using **MySQL**. It 
 1. Clone this repository or download the `.sql` and `.csv` files.
 2. Import `layoffs.csv` into your MySQL Workbench database environment.
 3. Execute `layoffs_cleaning_and_eda.sql` sequentially to replicate the cleaning and analysis process.
-
-## 📁 Repository Structure
